@@ -1,6 +1,13 @@
 # Prosper Loan Data Exploration
 ## by OLAMIDE QUZEEM O.
 
+<h2>Installations</h2>
+<ul>
+<li>NumPy</li>
+<li>pandas</li>
+<li>Matplotlib</li>
+<li>Seaborn</li>
+</ul>
 
 ## Dataset
 
@@ -8,9 +15,9 @@
 **About the Dataset** 
  
 <p>This Dataset contains information on 113,937 loans with 81 variables From Prosper Loan, a peer-to-peer personal loan lending Company.This Dataset was explored To Help identify variables That are Pivotal In loan Completion.</p>
-The Dataset can be Downloaded through this 
-[url](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv) and The Dataset Description File Can be accessed 
-through this [link](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid).<br>
+<p>The Dataset can be Downloaded through this 
+<a href='https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv'>url</a> and The Dataset Description File Can be accessed 
+through this <a href='https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid'>link.</a></p><br>
 <p>The Dataset Originally had a Dimenision of  113,937 Observations  with 81 variables,which was later subsetted to 55089 
 observations and 17 Variables.</p>
 <p>This Huge reduction in the Dataset in terms of Rows and Columns  was as a result of The 
